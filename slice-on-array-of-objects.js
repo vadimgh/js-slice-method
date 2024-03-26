@@ -17,4 +17,4 @@ const slicedArrayOfObjects = arrayOfObjects.slice(1);
 
 console.log(slicedArrayOfObjects);
 
-console.log(arrayOfObjects[1] == slicedArrayOfObjects[0]);
+console.log(arrayOfObjects[1] === slicedArrayOfObjects[0]);

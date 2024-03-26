@@ -25,8 +25,3 @@ console.log(numbers.slice(0, 6));
 console.log(numbers.slice(0));
 
 console.log(numbers.slice(1, 1));
-
-
-
-
-
